@@ -1,5 +1,6 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ChrisMarinos/FSharpKoans)
 
+[![wakatime](https://wakatime.com/badge/user/7fae6b99-9f71-4f2a-9af3-3ea4c2d060eb/project/e119068b-04b6-4e1c-9482-5ec3b7536042.svg)](https://wakatime.com/badge/user/7fae6b99-9f71-4f2a-9af3-3ea4c2d060eb/project/e119068b-04b6-4e1c-9482-5ec3b7536042)
 # Functional Koans - F# #
 
 Inspired by EdgeCase's fantastic [Ruby koans](http://github.com/edgecase/ruby_koans),
